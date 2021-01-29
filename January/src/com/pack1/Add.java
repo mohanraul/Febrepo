@@ -9,6 +9,7 @@ public class Add {
 		System.out.println("sum is"+sum);
 		
 		System.out.println("Added first line");
+		System.out.println("Added second line");
 
 	}
 
